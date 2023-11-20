@@ -10,6 +10,7 @@
 
 <style scoped>
     div {
+        text-align: left;
         margin: 20px;
     }
     .app-header {

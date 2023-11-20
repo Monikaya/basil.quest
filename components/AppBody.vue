@@ -1,4 +1,6 @@
 <script setup>
+    import '~/assets/css/body.css';
+
     const version = await getVersion();
     console.log(version);
 </script>
@@ -11,7 +13,10 @@
 </template>
 
 <style scoped>
-    .app-body {
-        text-align: center;
+    div {
+        position: absolute;
+        top: 25%;
+        left:50%;
+        transform: translate(-50%, -50%);
     }
 </style>

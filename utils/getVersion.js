@@ -11,7 +11,6 @@ export default async function getVersion() {
     const user = "monikaya";
     const repoName = "basil.quest";
 
-
     const githubUrl = "https://api.github.com/repos/" + user + "/" + repoName + "/commits/master";
     // await the json link, then actually assign latestCommit to the json data
     const latestCommit = await getDataFromGit(githubUrl);
