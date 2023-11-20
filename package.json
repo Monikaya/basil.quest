@@ -14,5 +14,10 @@
     "nuxt": "^3.8.1",
     "vue": "^3.3.8",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@iconify-json/mdi": "^1.1.55",
+    "@iconify-json/simple-icons": "^1.1.78",
+    "@nuxt/ui": "^2.10.0"
   }
 }
