@@ -18,11 +18,9 @@ export default async function getVersion() {
     // Export the version, .substring being used to get only the first 5 characters of the hash
     try {
         const version = latestCommit.sha.substring(0,5);
+        return version;
     }
     catch(err) {
         return "error";
     }
-    //console.log(version);
-    //.substring(0,5)
-    return version;
 }
