@@ -8,4 +8,4 @@ Just a fun little website I wanted to setup for the landing page of https://basi
 
 ## Purpose
 
-The purpose of this project is for me to wean my little network of webapps off of [YunoHost](https://yunohost.org/), and onto something more advanced and customizable.
+The purpose of this project is for me to wean my little network of webapps off of [YunoHost](https://yunohost.org/), and onto something more advanced, reliable, and customizable.
