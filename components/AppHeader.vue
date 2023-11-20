@@ -12,10 +12,6 @@
     div {
         margin: 20px;
     }
-    a {
-        color: white;
-        text-decoration: none;
-    }
     .app-header {
         font-family: 'Roboto', sans-serif;
         font-size: 22px;

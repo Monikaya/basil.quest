@@ -16,7 +16,12 @@ export default async function getVersion() {
     // await the json link, then actually assign latestCommit to the json data
     const latestCommit = await getDataFromGit(githubUrl);
     // Export the version, .substring being used to get only the first 5 characters of the hash
-    const version = latestCommit.sha.substring(0,5);
+    try {
+        const version = latestCommit.sha.substring(0,5);
+    }
+    catch(err) {
+        return "error";
+    }
     //console.log(version);
     //.substring(0,5)
     return version;
