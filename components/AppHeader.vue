@@ -4,7 +4,7 @@
 
 <template>
     <div class="app-header">
-        <a href="/">basil.quest</a>
+        <ULink to="/">basil.quest</ULink>
     </div>
 </template>
 
