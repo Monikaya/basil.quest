@@ -8,7 +8,7 @@
 <template>
     <div class="app-body">
         <h1>basil.quest</h1>
-        <p>Version: {{ version }}</p>
+        <UBadge variant="subtle">Version: {{ version }}</UBadge>
     </div>
 </template>
 
