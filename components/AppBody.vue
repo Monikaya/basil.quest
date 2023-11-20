@@ -7,7 +7,6 @@
     <div class="app-body">
         <h1>basil.quest</h1>
         <p>Version: {{ version }}</p>
-        <p>Version: {{ version }}</p>
     </div>
 </template>
 
