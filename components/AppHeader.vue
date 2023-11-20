@@ -4,13 +4,17 @@
 
 <template>
     <div class="app-header">
-        <p>basil.quest</p>
+        <a href="/">basil.quest</a>
     </div>
 </template>
 
 <style scoped>
     div {
         margin: 20px;
+    }
+    a {
+        color: white;
+        text-decoration: none;
     }
     .app-header {
         font-family: 'Roboto', sans-serif;
