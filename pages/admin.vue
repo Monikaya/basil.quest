@@ -1,4 +1,4 @@
 
 <template>
-    <IndexBody />
+    <h1>Among Us!</h1>
 </template>
