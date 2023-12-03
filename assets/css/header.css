@@ -1,24 +1,18 @@
 div {
-    text-align: left;
-    margin: 20px;
-    display:inline;
+  margin: 2vh;
+  display: inline;
+  padding-left: 3vh;
+  padding-right: 3vh;
 }
-
-img {
-    max-width: 45px;
-    max-height: 45px;
-    text-align: right;
-}
-
-.elemDiv {
-    margin-top: 10px;
-}
-
 .app-header {
-    font-size: 22px;
-    margin: 20px;
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
 }
-
-.imgDiv {
-    float: right;
+.home-button {
+  text-align: left;
+  float: left;
+}
+.dashboard {
+  text-align: right;
+  float: right;
 }
