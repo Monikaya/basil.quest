@@ -6,5 +6,5 @@ export default defineNuxtConfig({
     global: true,
     icons: ['mdi', 'simple-icons']
   },
-  css: ['~/assets/css/fonts.css']
+  css: ['~/assets/css/fonts.css', '~/assets/css/main.css']
 })
