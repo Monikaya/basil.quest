@@ -24,4 +24,7 @@ logs
 !.env.example
 
 # Custom
+.vscodeservice-account.json
+.prettierrc
+service-account.json
 .vscode
