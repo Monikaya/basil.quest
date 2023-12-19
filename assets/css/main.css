@@ -1,9 +1,21 @@
 body {
-    color: white;
-    font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 a {
-    color: white;
-    text-decoration: none;
+  color: white;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+
+div.titleSpace {
+  text-align: center;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }

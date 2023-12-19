@@ -34,6 +34,8 @@ onMounted(() => {
 
 <template>
   <main>
-    <button @click="signinRedirect()">SignIn with Google</button>
+    <div class="titleSpace">
+      <button @click="signinRedirect()">SignIn with Google</button>
+    </div>
   </main>
 </template>
