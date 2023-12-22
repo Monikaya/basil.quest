@@ -28,3 +28,4 @@ logs
 .prettierrc
 service-account.json
 .vscode
+.firebaserc
