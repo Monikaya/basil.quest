@@ -7,9 +7,9 @@
         <div class="home-button">
             <ULink to="/">basil.quest</ULink>
         </div>
-        <div class="dashboard">
+        <!--<div class="dashboard">
             <ULink to="/admin">Dashboard</ULink>
-        </div>
+        </div>-->
     </div>
 </template>
 
