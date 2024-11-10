@@ -14,7 +14,6 @@ async function getVersion() {
 
   try {
     const version = await latestCommit.sha.substring(0,5);
-    console.log(version);
     return version;
   }
   catch(err) {
