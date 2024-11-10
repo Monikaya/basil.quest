@@ -1,11 +1,16 @@
-# basil.quest
+# Fresh project
 
-**Properly hosted preview at [basil.quest](https://basil.quest/)**!!!!
+Your new Fresh project is ready to go. You can follow the Fresh "Getting
+Started" guide here: https://fresh.deno.dev/docs/getting-started
 
-Just a fun little website I wanted to setup for the landing page of https://basil.quest while also learning a js web framework
+### Usage
 
-**Very much in development**
+Make sure to install Deno: https://deno.land/manual/getting_started/installation
 
-## Purpose
+Then start the project:
 
-The purpose of this project is for me to wean my little network of webapps off of [YunoHost](https://yunohost.org/), and onto something more advanced, reliable, and customizable.
+```
+deno task start
+```
+
+This will watch the project directory and restart as necessary.
