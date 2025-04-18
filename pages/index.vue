@@ -1,7 +1,7 @@
 <template>
-        <div class="text-center w-full h-[6vh] border-b-3 justify-center flex items-center">
-            <h1 class="text-[24px]">i am a header</h1>
-        </div>
+        <!--<div class="text-center w-full h-[6vh] border-b-3 justify-center flex items-center">
+            <h1 class="text-[24px] rounded">i am a header</h1>
+        </div>-->
         <div>
             <h1 class="text-[50px] mt-[3vh]">
                 basil.quest
