@@ -13,3 +13,8 @@ code {
     padding: .1rem .3rem .2rem;
     border-radius: .2rem;
 }
+
+a.buttoncustom {
+    background: #6c7708bd;
+    color: white;
+}

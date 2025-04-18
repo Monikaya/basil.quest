@@ -22,3 +22,6 @@ logs
 .env
 .env.*
 !.env.example
+
+# Places where I put files
+public/files/*.zip
