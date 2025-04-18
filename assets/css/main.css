@@ -5,3 +5,11 @@ body {
     color: #B2D3A8;
     background-color: #122e17;
 }
+
+code {
+    background: #111f13;
+    word-wrap: break-word;
+    box-decoration-break: clone;
+    padding: .1rem .3rem .2rem;
+    border-radius: .2rem;
+}
