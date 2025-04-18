@@ -1,0 +1,25 @@
+// https://nuxt.com/docs/api/configuration/nuxt-config
+export default defineNuxtConfig({
+  compatibilityDate: '2024-11-01',
+  devtools: { enabled: true },
+
+  googleFonts: {
+    families: {
+      'Salsa': true,
+      download: true,
+      inject: true,
+    }
+  },
+
+  modules: [
+    '@nuxt/eslint',
+    '@nuxt/fonts',
+    '@nuxt/icon',
+    '@nuxt/image',
+    '@nuxt/ui',
+    '@nuxt/scripts',
+    '@nuxt/content'
+  ],
+  
+  css: ["~/assets/css/main.css", "~/assets/css/fonts.css"]
+})
