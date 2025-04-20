@@ -11,7 +11,7 @@
     </div>
     <div class="w-[20%] p-4 text-center">
       <h2 class="text-[20px] mb-[1vh]">Modrinth</h2>
-      <a class="px-4 py-2 rounded buttoncustom" href="modrinth-modpack.zip" download > Download </a>
+      <a class="px-4 py-2 rounded buttoncustom" href="modrinth-modpack.mrpack" download > Download </a>
     </div>
     <div class="w-[20%] p-4 text-center">
       <h2 class="text-[20px] mb-[1vh]">Curseforge</h2>
